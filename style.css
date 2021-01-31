@@ -9,7 +9,9 @@ body{
     text-align: center;
     color: #333;
 }
-.container{}
+.container{
+    background: #f4f4f4;
+}
 h1{
     padding-top: 1rem;
 }
